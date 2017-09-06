@@ -1,7 +1,7 @@
 Game Lengths
 ==========
 
-An overall chart showcasing the length of time that various games (video games, sports, etc) take. Inspired by the super short length of time that Splatoon matches take, I was curious to create a super large chart of data that can allow users to differentiate the time spent. A mini research project where we can compare the different amount of time that each game/activity would typically take. 
+An overall chart showcasing the length of time that various games (video games, sports, etc) take. Inspired by the super short length of time that Splatoon matches take, I was curious to create a super large chart of data that can allow users to differentiate the time spent. A mini research project where one can compare the different amount of time that each game/activity would typically take. 
 
 
 ### Our Data
@@ -9,6 +9,7 @@ An overall chart showcasing the length of time that various games (video games, 
 - We will also be ignoring any downtime that players will be facing (breaks, fouls, etc).
 - Tried to be accurate to the degree of a "complete" game. Users can always stop playing interim, tournaments and rounds can always add more time spend doing that activity.
 - Sources may also be from fansites where users have willingly submitted their data.
+- Not a fair comparison between games.
 
 ### To Contribute
 If you want to add to the data, submit a pull request and we'll add more info to this compendium! Please make sure to add sources for your data or else it may not be accepted.
